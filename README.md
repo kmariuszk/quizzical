@@ -5,9 +5,10 @@ Interactive website built to familiarize with React states and effects. The appl
 Based on the https://www.figma.com/file/RFVpEDFtnCOvsFNk5S1YVA/Quizzical-App from the Learn React JS tutorial at Scrimba.com.
 
 ![Splash screen](/splashScreen.png?raw=true)
+![Loading screen](/loading.png?raw=true)
 ![Game in progress](/gameInProgress.png?raw=true)
 ![Game finished](/finishedGame.png?raw=true)
-![Loading screen](/loading.png?raw=true)
+
 
 ## Available Scripts
 
