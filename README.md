@@ -1,6 +1,6 @@
 # Description
 
-Interactive website built to familiarize with React states and effects. The application allows a player to answer a question, check his/her answers and play another game. The questions in the quiz are being fetched from the https://opentdb.com/. I added a loading screen that indicates the questions are being fetched and many details which makes the playing experience pleasant and smooth.
+Interactive website built to familiarize with React states and effects. The application allows a player to answer a question, check his/her answers and play another game. The questions in the quiz are being fetched from https://opentdb.com/. I added a loading screen that indicates the questions are being fetched and many details which makes the playing experience pleasant and smooth.
 
 Based on the https://www.figma.com/file/RFVpEDFtnCOvsFNk5S1YVA/Quizzical-App from the Learn React JS tutorial at Scrimba.com.
 
