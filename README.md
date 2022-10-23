@@ -6,8 +6,8 @@ Based on the https://www.figma.com/file/RFVpEDFtnCOvsFNk5S1YVA/Quizzical-App fro
 
 ![Splash screen](/splashScreen.png?raw=true)
 ![Game in progress](/gameInProgress.png?raw=true)
-![Game finished]()(/finishedGame.png?raw=true)
-![Loading screen]()(/gameInProgress.png?raw=true)
+![Game finished](/finishedGame.png?raw=true)
+![Loading screen](/gameInProgress.png?raw=true)
 
 ## Available Scripts
 
